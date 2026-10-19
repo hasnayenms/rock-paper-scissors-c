@@ -60,7 +60,7 @@ This project can be compiled and executed using a compatible C compiler, such as
 
 Run the game using the online C compiler:
 
-[🎮 Play Rock, Paper, Scissors](https://www.programiz.com/online-compiler/5oG80Yc2LE3R)
+[🎮 Play Rock, Paper, Scissors](https://www.programiz.com/online-compiler/1BWmZEM5nFam7)
 
 🎯 Project Goal
 
