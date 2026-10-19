@@ -56,6 +56,10 @@ This project can be compiled and executed using a compatible C compiler, such as
 5. Choose whether to enable the Sudden Death tie-breaker.
 6. Enter "rock", "paper", "scissors", or use "r", "p", "s" to play.
 
+## 📸 Game Output
+
+![Rock, Paper, Scissors Game Output](game-output.png)
+
 ## ▶️ Play Online
 
 Run the game using the online C compiler:
