@@ -58,7 +58,7 @@ This project can be compiled and executed using a compatible C compiler, such as
 
 ## 📸 Game Output
 
-![Rock, Paper, Scissors Game Output](game-output.png.png)
+![Rock, Paper, Scissors Game Output]()
 
 ## ▶️ Play Online
 
